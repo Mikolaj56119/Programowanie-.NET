@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pojazdy>
+	<Rodzaj>
+		<Nazwa>Samochody osobowe</Nazwa>
+		<Opis>Samochody osobowe.</Opis>
+		<Marka>
+			<Nazwa>Volkswagen</Nazwa>
+			<Kraj>Niemcy</Kraj>
+			<DataPowstania>28.05.1937</DataPowstania>
+			<Model>
+				<Nazwa>Passat B5</Nazwa>
+				<Silnik>
+					<PojemnośćSilnika>1.9 TDI</PojemnośćSilnika>
+					<MocSilnika>130KM</MocSilnika>
+				</Silnik>
+			</Model>
+		</Marka>
+
+		<Marka>
+			<Nazwa>Audi</Nazwa>
+			<Kraj>Niemcy</Kraj>
+			<DataPowstania>16.07.1909</DataPowstania>
+			<Model>
+				<Nazwa>R8</Nazwa>
+				<Silnik>
+					<PojemnośćSilnika>5.5</PojemnośćSilnika>
+					<MocSilnika>540KM</MocSilnika>
+				</Silnik>
+			</Model>
+		</Marka>
+
+
+	</Rodzaj>
+
+	<Rodzaj>
+		<Nazwa>Samochody ciężarowe</Nazwa>
+		<Opis>Samochody ciężarowe.</Opis>
+		<Marka>
+			<Nazwa>MAN</Nazwa>
+			<Kraj>Niemcy</Kraj>
+			<DataPowstania>01.07.1898</DataPowstania>
+			<Model>
+				<Nazwa>TGX</Nazwa>
+				<Silnik>
+					<PojemnośćSilnika>12</PojemnośćSilnika>
+					<MocSilnika>440KM</MocSilnika>
+				</Silnik>
+			</Model>
+			
+		</Marka>
+
+		<Marka>
+			<Nazwa>MAN</Nazwa>
+			<Kraj>Niemcy</Kraj>
+			<DataPowstania>01.07.1898</DataPowstania>
+			<Model>
+				<Nazwa>TGA</Nazwa>
+				<Silnik>
+					<PojemnośćSilnika>10</PojemnośćSilnika>
+					<MocSilnika>440KM</MocSilnika>
+				</Silnik>
+			</Model>
+		</Marka>
+
+	</Rodzaj>
+
+	<Rodzaj>
+		<Nazwa>Motocykle</Nazwa>
+		<Opis>Motocykle.</Opis>
+		<Marka>
+			<Nazwa>Ducati</Nazwa>
+			<Kraj>Włochy</Kraj>
+			<DataPowstania>07.09.1926</DataPowstania>
+			<Model>
+				<Nazwa>SuperSport</Nazwa>
+				<Silnik>
+					<PojemnośćSilnika>937 cm3</PojemnośćSilnika>
+					<MocSilnika>110KM</MocSilnika>
+				</Silnik>
+			</Model>
+			<Model>
+				<Nazwa>Streetfighter V4</Nazwa>
+				<Silnik>
+					<PojemnośćSilnika>1.1</PojemnośćSilnika>
+					<MocSilnika>208KM</MocSilnika>
+				</Silnik>
+			</Model>
+		</Marka>
+
+
+	</Rodzaj>
+	
+
+</Pojazdy>

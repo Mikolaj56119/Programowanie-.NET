@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Zadanie 4 Mikolaj 56119\Zadanie 4 Mikolaj 56119\obj\Debug\Zadanie 4 Mikolaj 56119.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Zadanie 4 Mikolaj 56119\Zadanie 4 Mikolaj 56119\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Zadanie 4 Mikolaj 56119\Zadanie 4 Mikolaj 56119\obj\Debug\OknoMarka.g.cs
+C:\Users\user\source\repos\Zadanie 4 Mikolaj 56119\Zadanie 4 Mikolaj 56119\obj\Debug\OknoModel.g.cs
+C:\Users\user\source\repos\Zadanie 4 Mikolaj 56119\Zadanie 4 Mikolaj 56119\obj\Debug\OknoRodzaj.g.cs
+C:\Users\user\source\repos\Zadanie 4 Mikolaj 56119\Zadanie 4 Mikolaj 56119\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Zadanie 4 Mikolaj 56119\Zadanie 4 Mikolaj 56119\obj\Debug\Zadanie 4 Mikolaj 56119_MarkupCompile.cache
+C:\Users\user\source\repos\Zadanie 4 Mikolaj 56119\Zadanie 4 Mikolaj 56119\obj\Debug\Zadanie 4 Mikolaj 56119_MarkupCompile.lref
