@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\bin\Debug\Zadanie 2 Mikolaj 56119 - wersja 2.exe.config
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\bin\Debug\Zadanie 2 Mikolaj 56119 - wersja 2.exe
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\bin\Debug\Zadanie 2 Mikolaj 56119 - wersja 2.pdb
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\Zadanie 2 Mikolaj 56119 - wersja 2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\Zadanie 2 Mikolaj 56119 - wersja 2_MarkupCompile.cache
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\Zadanie 2 Mikolaj 56119 - wersja 2_MarkupCompile.lref
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\App.baml
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\Zadanie 2 Mikolaj 56119 - wersja 2.g.resources
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\Zadanie_2_Mikolaj_56119___wersja_2.Properties.Resources.resources
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\Zadanie 2 Mikolaj 56119 - wersja 2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\Zadanie 2 Mikolaj 56119 - wersja 2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\Zadanie 2 Mikolaj 56119 - wersja 2.exe
+C:\Users\user\source\repos\Zadanie 2 Mikolaj 56119 - wersja 2\Zadanie 2 Mikolaj 56119 - wersja 2\obj\Debug\Zadanie 2 Mikolaj 56119 - wersja 2.pdb
