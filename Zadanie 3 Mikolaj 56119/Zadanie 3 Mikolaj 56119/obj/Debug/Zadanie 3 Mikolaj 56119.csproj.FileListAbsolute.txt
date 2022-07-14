@@ -1,0 +1,18 @@
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\Zadanie 3 Mikolaj 56119.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\Zadanie 3 Mikolaj 56119_MarkupCompile.cache
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\Zadanie 3 Mikolaj 56119_MarkupCompile.lref
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\bin\Debug\Zadanie 3 Mikolaj 56119.exe.config
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\bin\Debug\Zadanie 3 Mikolaj 56119.exe
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\bin\Debug\Zadanie 3 Mikolaj 56119.pdb
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\App.baml
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\Zadanie 3 Mikolaj 56119.g.resources
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\Zadanie_3_Mikolaj_56119.Properties.Resources.resources
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\Zadanie 3 Mikolaj 56119.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\Zadanie 3 Mikolaj 56119.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\Zadanie 3 Mikolaj 56119.exe
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\Zadanie 3 Mikolaj 56119.pdb
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\WidokAlbumu.g.cs
+C:\Users\user\source\repos\Zadanie 3 Mikolaj 56119\Zadanie 3 Mikolaj 56119\obj\Debug\WidokAlbumu.baml
